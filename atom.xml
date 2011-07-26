@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Regarding Work</title>
+    <link href="http://regardingwork.com/atom.xml" rel="self"/>
+    <link href="http://regardingwork.com/"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>http://regardingwork.com/</id>
+    
+    {% for post in site.posts %}
+    <entry>
+        <title>{{ post.title }}</title>
+        <link href="http://regardingwork.com{{ post.url }}"/>
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+        <id>regardingwork.com:{{ post.id }}</id>
+        <content type="html">
+          {{ post.content }}          
+        </content>
+        <author>
+            <name>{{ post.author_name }}</name>
+            <!-- <uri>{{ post.author_uri }}</uri> -->
+        </author>
+    </entry>
+    {% endfor %}
+</feed>

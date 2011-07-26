@@ -1,0 +1,6 @@
+markdown: rdiscount
+pygments: true
+rdiscount:
+  extensions: [smart]
+permalink: /:year/:month/:day/:title
+exclude: ['config.rb', 'README', 'todo.txt']
