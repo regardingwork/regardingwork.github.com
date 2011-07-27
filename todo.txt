@@ -1,4 +1,3 @@
-Migrate comments to disqus
 Add cname for regardingwork.com
 Add analytics
 Switch to feedburner

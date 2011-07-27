@@ -168,19 +168,24 @@ ul.footnotes li {
   margin-bottom: 0.8em;
 }
 
-/* line 87, ../_sass/screen.scss */
+/* line 86, ../_sass/screen.scss */
+#disqus_thread {
+  margin-top: 3em;
+}
+
+/* line 91, ../_sass/screen.scss */
 html {
   background: #dddddd;
   color: #333333;
   text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.8);
 }
-/* line 92, ../_sass/screen.scss */
+/* line 96, ../_sass/screen.scss */
 html .wrap {
   width: 540px;
   margin: 0 auto;
   padding: 40px 0 60px;
 }
-/* line 98, ../_sass/screen.scss */
+/* line 102, ../_sass/screen.scss */
 html #content {
   background: #f6f6f6;
   -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
@@ -188,15 +193,15 @@ html #content {
   -o-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
-/* line 103, ../_sass/screen.scss */
+/* line 107, ../_sass/screen.scss */
 html #footer a {
   color: #333333;
 }
-/* line 106, ../_sass/screen.scss */
+/* line 110, ../_sass/screen.scss */
 html #footer li {
   margin-bottom: 0;
 }
-/* line 109, ../_sass/screen.scss */
+/* line 113, ../_sass/screen.scss */
 html #footer .wrap {
   padding: 20px 0 40px;
 }
