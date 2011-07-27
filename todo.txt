@@ -1,2 +1,4 @@
-Ensure URLs mapped accurately from previous blog.
-Migrate comments
+Migrate comments to disqus
+Add cname for regardingwork.com
+Add analytics
+Switch to feedburner
