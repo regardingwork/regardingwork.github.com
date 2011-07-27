@@ -12,7 +12,7 @@ author_name: Ash Fontana
 
 ---
 
-People tend to avoid costly errors rather than aim for finding the truth when making decisions [1]. Applied to recruiting, employers might tend to avoid hiring someone based on their lack of credentials or previous experience, rather than aiming to find if the employee really wants to solve the problem the business is attacking.
+People tend to avoid costly errors rather than aim for finding the truth when making decisions [<a href="#footnote-1">1</a>]. Applied to recruiting, employers might tend to avoid hiring someone based on their lack of credentials or previous experience, rather than aiming to find if the employee really wants to solve the problem the business is attacking.
 
 I have known employees who exhibited both a disinterest in their company's aim to solve a problem and a preference for developing their own skill. I have started to think broadly about the following alternative method to avoid ever hiring this sort of person.
 
@@ -50,6 +50,8 @@ The benefits continue and compound
 
 Even if your company later chooses to build something else or solve another problem, you will know that this employee is capable of being interested in something that interests you and your team. This employee will want to come into work every day to make the product that you all want to make, and evangelize it to everyone they meet through and outside work - investors, customers, partners and potential recruits.
 
-<small>
+<ul class="footnotes">
+<li id="footnote-1">
 [1] Friedrich, James (1993), "Primary error detection and minimization (PEDMIN) strategies in social cognition: a reinterpretation of confirmation bias phenomena", <em>Psychological Review</em> (American Psychological Association) <strong>100</strong> (2): 316–317 via <a href="http://en.wikipedia.org/wiki/Confirmation_bias">Wikipedia on Confirmation Bias</a>.
-</small>
+</li>
+</ul>

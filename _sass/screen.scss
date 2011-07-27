@@ -73,6 +73,16 @@ strong { font-weight: bold; }
   margin: -15px 0 30px;
 }
 
+ul.footnotes {
+  margin-top: 3em;
+  li {
+    font-size: 0.8em;
+    list-style-type: none;
+    line-height: 1.5em;
+    margin-bottom: 0.8em;
+  }  
+}
+
 
 html {
   background: $secondary-background-color;
