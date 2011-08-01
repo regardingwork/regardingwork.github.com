@@ -2,15 +2,14 @@
 layout: default
 ---
 
-<div class="wrap">
+<div class="home wrap">
   <h1>Regarding Work</h1>
   
-  <p id="byline">
-    A blog about productivity, collaboration and maximizing talent. 
-    Written by
+  <div id="byline">
+    A blog about productivity, collaboration and maximizing talent written by
     <a href="http://twitter.com/#!/ash_fontana">Ash Fontana</a> and 
     <a href="http://ozanonay.com">Ozan Onay</a>.
-  </p>
+  </div>
   
   <ul id="posts">
     {% for post in site.posts %}
@@ -20,6 +19,6 @@ layout: default
 </div>
 
 <style type="text/css" media="screen">
-#byline { font-size: 1.2em; margin-bottom: 2em; }  
+#byline { font-size: 1.2em; line-height: 1.3em; margin-bottom: 2em; }  
 #posts li { margin-bottom: 0.5em; }
 </style>

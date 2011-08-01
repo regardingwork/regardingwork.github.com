@@ -15,12 +15,15 @@ $text-color: #333;
 $title-color: black;
 $background-color: #f6f6f6;
 $secondary-background-color: darken($background-color, 10%);
+$link-color: crimson;
+$link-hover-color: darkorange;
 
+//
+// Fonts
+//
+$serif: Palatino, 'Palatino Linotype', Georgia, 'Times New Roman', Times, serif;
+$sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
-html {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: lighter;
-}
 p, ol, ul, blockquote {
   font-size: 16px;
   line-height: 24px;  
@@ -45,9 +48,10 @@ blockquote {
 a {
   text-decoration: none;
   text-shadow: none;
+  color: $link-color;
 }
 a:hover {
-  text-decoration: underline;
+  color: $link-hover-color;
 }
 ol {
   list-style-type: decimal;
@@ -68,6 +72,8 @@ strong { font-weight: bold; }
 .meta {
   text-transform: uppercase;
   font-size: 0.8em;
+  font-family: $sans;
+  font-weight: normal;
 }
 #author-date {
   margin: -15px 0 30px;
@@ -92,6 +98,8 @@ ul.footnotes {
 
 
 html {
+  font-family: $sans;
+  font-weight: lighter;
   background: $secondary-background-color;
   color: $text-color;
   @include text-shadow(0px 1px 1px rgba(255, 255, 255, 0.8));
@@ -106,6 +114,12 @@ html {
     background: $background-color;
     @include box-shadow(0px 0px 10px rgba(0,0,0,0.2));
   }
+  
+  #post, .home {
+    font-family: $serif;
+    text-shadow: none;
+  }
+  
   #footer {
     a {
       color: $text-color;
