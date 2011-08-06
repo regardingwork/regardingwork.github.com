@@ -89,14 +89,6 @@ ul.footnotes {
   }  
 }
 
-#disqus_thread {
-  margin-top: 3em;
-}
-#dsq-subscribe {
-  display: none;
-}
-
-
 html {
   font-family: $sans;
   font-weight: lighter;
@@ -133,3 +125,26 @@ html {
   }
   
 }
+
+
+//
+// Disqus comments
+//
+
+#disqus_thread {
+  margin-top: 4em;
+  
+  p, ul { 
+    font-size: 14px;
+    text-shadow: none;
+    .dsq-comment-message {
+      line-height: 1.4em;
+    }
+  }
+  
+  #dsq-global-toolbar, #dsq-subscribe, #dsq-like-tooltip, #dsq-sort-by, 
+  #dsq-content > h3, .dsq-reply > h3 {
+    display: none;
+  }
+}
+
