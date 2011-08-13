@@ -1,0 +1,156 @@
+---
+layout: post
+title: 100 ways to get more done
+published: false
+author_name: Ozan Onay
+
+---
+
+A friend recently asked me what he could do to reduce procrastination and be more effective. I gave him a few tips but mentioned that there are "hundreds of other things" he could do.
+
+So, here are the first hundred that came to mind. All have worked for either myself or people I've worked with, but your mileage may vary.
+
+<ol>
+    
+    <h2>Optimizing your work environment</h2>
+    <li>Buy the most comfortable pair of <strong>over-ear headphones</strong> you can find. Wear them all the time, even if you have the music off. If somebody speaks to or waves at you, you can get away with outright ignoring them.</li>
+    <li>Don't eat at your desk. Don't read the paper at your desk. Don't watch YouTube or make personal phone calls at your desk. <strong>Treat your desk as a sacred work space</strong> so that next time you sit down, you subconsciously know why you're there and what you need to do.</li>    
+    <li><strong>Clear everything off your desk</strong> at the start and end of every day. Don't allow yourself the distraction that comes from clutter or personal effects. Think of yourself as a chef—before you start the next dish you need to put away the utensils you aren't using and wipe the bench, otherwise you could hurt yourself or contaminate someone's food.</li>
+    <li>The same applies to <strong>clearing your desktop</strong>. Create a ritual of closing unused apps and Chrome tabs, saving and filing away notes, and deleting temporary files from your desktop. Do this whenever you complete a task, and before long you will find a great deal of satisfaction in hitting ⌘Q.</li>
+    
+    <h2>Attaining a flow state</h2>
+    <li>Listen to <strong><a href="http://en.wikipedia.org/wiki/Dubstep">dubstep</a></strong>, a genre of electronic dance music invented to help programmers work faster (also works for the general population). If dubstep isn't doing it for you, try drum and bass, breakbeats or <a href="http://en.wikipedia.org/wiki/Brownian_noise">Brownian noise</a>. Remember, you want to pick the music (or sounds) that will make you work more effectively, not what will impress your peers or help you attract a mate. Just lie about what you listen to at work, if you have to.</li>
+    <li>Learn to <strong>recognize when your work is making you anxious</strong> so that you know to <a href="http://regardingwork.com/2011/07/07/five-minutes-to-lifelong-job-satisfaction/">improve your skills to re-enter your flow channel</a>. Everybody will have their own tells—I know this is happening when I sigh before speaking to a colleague (a sign that I've been holding my breath intermittently while working on a tough problem) or if I find myself sitting on the edge of my bed in the morning, for an extended period of time, with only one sock on, thinking about my first task for the day.</li>
+    <li>Learn to <strong>recognize when you are bored at work</strong> so that you know to <a href="http://regardingwork.com/2011/07/07/five-minutes-to-lifelong-job-satisfaction/">increase the difficulty of your work to re-enter your flow channel</a>. Your tells should be quite obvious, if you're paying attention. Typically you'll find yourself procrastinating, looking for small, mindless tasks to do, or contemplating dinner. If you're a manager, you might be on the brink of booking a meeting. My own tells include going for two coffees in one day or realizing that a new album has started playing. My counter-tell is making a cup of tea, then accidentally let it go cold without taking a sip.</li>
+    
+    <h2>Keeping your mind clear</h2>
+    <li>Realize that other people pay less attention to you than you think. While you can't totally neglect your appearance and personal hygiene, you can probably afford to dial it down by !!%.</li>
+    <li>don't stress out about things you can't change. write a list of the things in your life that you do have control over, and direct your stress at them</li>
+    <li>Use pester.</li>
+
+    <h2>Conquering email</h2>
+    <li>Use <strong>a single Gmail account</strong>. If you have a separate work email address, have it forwarded to your Gmail account. Having a single place for your email will help you with Inbox Zero and similar techniques. Choosing Gmail as your email client will help you become a power user.</li>
+    <li>Practice <strong><a href="http://www.43folders.com/izero">Inbox Zero</a></strong>. Do not open Gmail unless you are prepared to work through everything in your inbox. This is easy to achieve if you use a variation of <a href="http://pmarca-archive.posterous.com/the-pmarca-guide-to-personal-productivity">Marc Andreesen's watch/later lists</a> where every email is either ignored, replied to or scheduled to be reviewed later. I've found I don't need a "watch" label so I simply set time-insensitive emails to "review" and deal with them the next Saturday morning.</li>
+    <li>Learn the important <strong><a href="https://mail.google.com/support/bin/answer.py?answer=6594">Gmail keyboard shortcuts</a></strong>. When you're writing a reply, press tab then return to send. Compose (<strong>c</strong>), open (<strong>o</strong>), reply (<strong>r</strong>), archive (<strong>e</strong>) and label (<strong>l</strong>) will take you a very long way. Once you've habitualized those, you may also get some mileage out of select (<strong>x</strong>), previous (<strong>j</strong>), next (<strong>k</strong>), forward (<strong>f</strong>) go to inbox (<strong>g</strong> then <strong>i</strong>) and go to search box (<strong>/</strong>).</li>
+    <li>Turn on a few <strong>useful <a href="https://mail.google.com/mail/u/0/#settings/labs">Gmail labs</a> features</strong> to speed up your workflow. The three most important are Background Send, Auto-advance and Send &amp; Archive. Each is individually useful, but the three together provide a graceful Inbox Zero workflow: write your reply then tab-enter to send in the background, archive the original and immediately open the next thing to respond to. Auto-advance also helps while working through your "review" list as it knows to only advance through appropriately labeled messages.</li>
+    <li>If you find yourself in the middle of a long multi-person email chain, you must either be the person to <strong>end the conversation, or totally disengage from it</strong> (setting to "review" then muting works for me).</li>
+    <li><strong>Avoid "reply to all"</strong>, if you can. Invariably, one of the many recipients will feel compelled to reply, creating more work for you when they do.</li>
+    <li><strong>Avoid email subscriptions</strong> such as newsletters and daily deals. If an email comes from a noreply@ email address, it's a sign that you should unsubscribe. When considering whether to unsubscribe from seemingly useful emails such as Google Groups digests, ask yourself "how much would I pay to receive these". The answer is almost always "close to zero".</li>
+    <li>If you work allows it, <strong>only check your email at pre-scheduled times in the day</strong>. I'm currently striving for morning, noon and night but haven't quite conquered this one yet. <a href="http://regardingwork.com/2011/05/15/the-tragedy-of-the-interruption-junkie/">Like with many other addictions</a>, the <a href="http://www.youtube.com/watch?v=I_ctJqjlrHA">variable ratio reinforcement schedule</a> of checking email results in adverse <a href="http://en.wikipedia.org/wiki/Operant_conditioning">operant conditioning</a>. The first step is to stop yourself from indulging in unscheduled "quick hits" during the day.</li>
+    <li>Use Rapportive. !!</li>
+    
+    <h2>Fast, focused writing</h2>
+    <li>Pick a good text editor and stick to it long enough to master it. For non-programmers using Mac OS X I would recommend TextMate as it's simple enough to use straight away and will grow with you.</li>
+    <li>Rebind caps to ctrl. There's no need for caps</li>
+    <li>use writeroom</li>
+    
+    <h2>Fast, focused Mac OS X use</h2>
+    <li>Use launcher. This will allow you to have an empty dock.</li>
+    <li>Habitualize simple keyboard nav. ctrl-a ctrl-e for start and end of line. option left/right for moving one word at a time.</li>
+    <li>use divvy to control your workspace</li>
+    
+    <h2>Fast, focused web use</h2>
+    <li>Use <strong>Google Chrome</strong>. It's the fastest browser and will allow you to use some handy extensions.</li>
+    <li>Install and use <strong><a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a></strong>. This is one of the easiest steps you can take toward distraction-free Web use.</li>
+    <li>Install and use the <strong><a href="https://chrome.google.com/webstore/detail/ceeeklhkohcmbifadglfhfjfamnhefje">Google Plus Bar Minus</a></strong> Chrome extension to hide the universal Google toolbar thing. I find it to be a significant distraction, particularly when the little red Google+ notifier lights up. On the rare occasion where you need to use the toolbar, you can temporarily show it by clicking the extension's icon.</li>
+    <li><strong>Don't read long articles through your browser</strong>. <a href="http://instapaper.com/">Instapaper</a> might work for you, but my preferred workflow is using the <a href="http://www.readability.com/addons">Readability Chrome extension</a> to send articles directly to my Kindle (for free) with ⇧⌃K.</li>
+    <li><strong>Clean out your bookmarks</strong> and keep the bookmarks bar hidden (press ⇧⌘B right now). You shouldn't need to keep bookmarks—sites you visit regularly will be easily to recall the URL for (either by you or by autocomplete in the Chrome location bar), articles can be read later (see above) and other pages you come across that merit further investigation should be scheduled as later research tasks.</li>
+    <li><strong>Set a useful startup page</strong> for Chrome (⌘, will bring up the Preferences pane). For me, this is <a href="http://rememberthemilk.com">RTM</a>.</li>
+    <li>Learn basic Chrome keyboard shortcuts. ⌘L to focus on the location bar, space and shift-space to move down and up a page, ⌘T to open a new tab, ⇧⌘T to open a new tab with the contents of the last closed tab (surprisingly useful!). ⌘F to find, extra find commands etc !!</li>
+
+    <h2>Having a focused life</h2>
+    <li>consciously-formed habits are generally beneficial, accidental habits are generally detrimental</li>
+    <li>have an engrossing go-to question or challenge. use this as a substitute thought when trying to break some habitual thought</li>
+    <li>quit tv</li>
+    <li>quit reading the news. stay out of date on news and current affairs. ignore sports and the economy</li>
+    <li>have a small identity. this way you avoid the high cost of maintaining it. neglect to have an opinion on politics. neglect to have an opinion on important social matters. !! pg article</li>
+    <li>don't learn what you can just look up</li>
+    <li>improve your thinking</li>
+    <li>Realize that others are paying less attention to you than you think !! upside of irrationality research</li>
+    <li>Have less stuff</li>
+    <li>scan and shred paperwork. take photos of receipts, etc straight into dropbox</li>
+
+    <h2>Setting the mood</h2>
+    <li>deal with stressful distractions. "deal" could be as easy as scheduling a later time to think about it.</li>
+    <li>close all inlets of communication, growl notifications</li>
+    <li>use a todo list to get things off your mind</li>
+    <li>have a starting work ritual... something to get you in the mood. works for the buddhists. could be as simple as a go-to album.</li>
+
+    <h2>Conquering procrastination</h2>
+    <li><strong>Schedule your chores</strong>, so that you can't use them as a way to procrastinate. If "clean the bathroom" is a monthly scheduled RTM task and you nonetheless find yourself contemplating it during the month, then you're likely avoiding a more important task.</li>
+    <li>Try the <strong><a href="http://www.pomodorotechnique.com/">Pomodoro Technique</a></strong>. This one's not for me, but many people swear by it.</li>
+    <li>Use <strong><a href="https://www.rescuetime.com/">RescueTime</a></strong> to automatically log your productive and unproductive activities. The point is not to treat productivity as a game or to obsesses over your daily stats. Instead, just schedule a regular time (say once a month) to audit your RescueTime stats looking for patterns of low productivity and problem apps and Web sites.</li>
+    <li><strong>Block problem Web sites</strong>. I've been using the <a href="https://chrome.google.com/webstore/detail/laankejkbhbdhmipfmgcngdelahlfoji">StayFocusd extension</a> to block out the entire work week, but you could similarly use RescueTime's "Get Focused..." feature.</li>
+
+    <h2>Wellbeing</h2>
+    <li>quit smoking</li>
+    <li>drink less</li>
+    <li>sleep more</li>
+    <li>don't wake up to an alarm</li>
+    <li>quit sugar, then high-gi carbs, then carbs, then other insulinogenic food and drink (sweeteners, gum, )</li>
+    <li>work standing up?</li>
+    <li>exercise tactically</li>
+    <li>take naps</li>
+
+    <h2>Setting tasks</h2>
+    <li>before you start a task, estimate how long it will take. then ask somebody who's done it before, to avoid the planning fallacy</li>
+    <li>write your tasks in imperative verb form. it seems silly, but it works</li>
+    <li>write tasks you can achieve - if nobody but you knows what "done" is, that's a bad sign</li>
+    <li>use remember the milk. learn the keyboard shortcuts. learn the smart add token things. use smart searches. read the forums for more tips.</li>
+
+    <h2>Before you start a task...</h2>
+    <li>take the most important thing on your todo list and hide everything else. this will reduce the chance of procrastinating on small tasks</li>
+    <li>ask somebody else what you should do today. don't give them options, just ask them.</li>
+    <li>before you start working on a task, explain to someone else why you intend to work on it. if there's noone nearby, speak to your coffee mug. if you are avoiding verbalizing your rationale, you should probably be working on something else</li>
+    <li>consider, how much would i pay for somebody else to do this for me? if not very much, you should get someone else to do it! or take it as a sign that this isn't important</li>
+    <li>if you are about to start a task for the purpose of X and Y, brainstorm alternative ways to achieve both. is it possible to get X and Y more easily if you seek them out separately?</li>
+    <li>what would your far-future self say if he saw you doing this? would he think you were wasting your time?</li>
+    <li>if your were giving advice to a friend, would you recommend they work on what you're working on now?</li>
+
+    <h2>Recurring tasks</h2>
+    <li>is this something you've done a number of times before? what lessons did you learn last time</li>
+    <li>is this something you've done a number of times before? why isn't it easier this time? how can i automate this?</li>
+    <li>why did you form this habit in the first place? has the context changed? if you knew then what you know now, would you have started?</li>
+
+    <h2>Plateau busting</h2>
+    <li>collaborate with somebody smarter than you</li>
+    <li>collaborate with somebody more creative than you</li>
+    <li>collaborate with fewer people</li>
+    <li>divide and conquer</li>
+    <li>write lists. pick a large number !! altucher reference?</li>
+    <li>have a cup of tea, away from your desk, in silence. don't flick through a magazine, just sit and drink the tea</li>
+    <li>have a sacred thinking spot, like a cafe you only go to by yourself, or a tree that nobody else would think to sit under</li>
+    
+    <h2>Working on the most important thing</h2>
+    <li>get a friend to audit your task list</li>
+    <li>write an email to a respected acquaintance listing everything you did today. you'll probably be too embarrassed to hit send, so consider what you'll change tomorrow to make it an email you can be proud of</li>
+    <li>know your hourly rate</li>
+
+    <h2>Doing things for the wrong reason</h2>
+    <li>don't do things to signal something dumb, like status on intelligence or work ethic</li>
+    <li>don't do something just because "it's your job". you have more control over your job than you think</li>
+    <li>never, ever do busy work. sets a bad habit</li>
+    <li>understand sunk cost bias so you can identify when you're falling for it</li>
+
+    <h2>Further study</h2>
+    <li><strong><a href="!!">Learn about flow theory</a></strong> so that whenever you have a chance you can opt for fulfilling rather than temporarily pleasurable activities. Some of Csikszentmihalyi's conclusions are non-trivial, for instance shooting the breeze with old friends is deceptively fun but rarely fulfilling, whereas talking to a stranger can sometimes induce a flow state.</li>
+    <li>Learn how to actually change your mind</li>
+
+    <h2>For the truly dedicated</h2>
+    <li>Consider switching to the <strong><a href="http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak keyboard layout</a></strong> for faster, more comfortable typing. Having used Dvorak exclusively for ~5 years now—and having subsequently forgotten how to type in QWERTY—I wouldn't recommend this if you regularly work on other people's computers. While the jury is still out on how helpful Dvorak really is, at least you'll be using the same keyboard layout as <a href="http://rcranger.mysite.syr.edu/famhist/blackburn.htm">the world's fastest typist</a>.</li>
+    <li>Stick to a personal uniform</li>
+    <li>
+        <p><strong>Don't eat during the day</strong>. I only started doing this recently, but have found it quite liberating. Every day, I have fewer thoughts about when and what to eat, whether I should go to the kitchen to snack on something, and so on. I don't suffer from cortisol spikes (food comas), subject my colleagues to low blood sugar moodiness, or experience hunger pangs at noon from <a href="http://www.physorg.com/news170688849.html">circadian ghrelin troughs</a>. Counter-intuitively, I experience far less hunger now than when I ate breakfast and lunch.</p>
+        <p>Fasting for the entire day is not realistic unless you first become accustomed to a low-carb, high-fat diet (or, alternatively, participate in Ramadan fasts for a few years). Start by skipping breakfast a few days a week, skipping lunch a few days a week, then experimenting with some longer <a href="http://en.wikipedia.org/wiki/Intermittent_fasting">intermittent fasting</a>. While it has more of a bodybuilding focus, I've found <a href="http://www.leangains.com/">leangains</a> to be a reliable, scientifically reliable resource.</p>
+    </li>
+
+    <h2>The primary thing</h2>
+    <li>
+        <p><strong>Always try to cut the enemy</strong>. From <a href="http://en.wikipedia.org/wiki/The_Book_of_Five_Rings">The Book of Five Rings</a>:</p>
+        <blockquote>
+            The primary thing when you take a sword in your hands is your intention to cut the enemy, whatever the means. Whenever you parry, hit, spring, strike or touch the enemy's cutting sword, you must cut the enemy in the same movement. It is essential to attain this. If you think only of hitting, springing, striking or touching the enemy, you will not be able actually to cut him.
+        </blockquote>
+        <p>The previous 99 "ways to get more done" are simply tricks to help you parry, hit, spring, strike or touch the enemy's cutting sword. They are all useless unless you know your enemy and have every intention to cut him.</p>
+    </li>
+
+</ol>
