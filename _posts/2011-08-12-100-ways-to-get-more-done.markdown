@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 100 ways to get more done
-published: true
+published: false
 author_name: Ozan Onay and Ash Fontana
 
 ---
@@ -29,15 +29,17 @@ So, here are the first hundred that came to mind. All have worked for one or bot
     <li>Learn to <strong>recognize when your work is making you anxious</strong> so that you know to <a href="http://regardingwork.com/2011/07/07/five-minutes-to-lifelong-job-satisfaction/">improve your skills to re-enter your flow channel</a>. Everybody will have their own tells—I know this is happening when I sigh before speaking to a colleague (a sign that I've been holding my breath intermittently while working on a tough problem) or if I find myself sitting on the edge of my bed in the morning, for an extended period of time, with only one sock on, thinking about my first task for the day.</li>
     <li>Learn to <strong>recognize when you are bored at work</strong> so that you know to <a href="http://regardingwork.com/2011/07/07/five-minutes-to-lifelong-job-satisfaction/">increase the difficulty of your work to re-enter your flow channel</a>. Your tells should be quite obvious, if you're paying attention. Typically you'll find yourself procrastinating, looking for small, mindless tasks to do, or contemplating dinner. If you're a manager, you might be on the brink of booking a meeting. My own tells include going for two coffees in one day or realizing that a new album has started playing. My counter-tell is making a cup of tea, then accidentally let it go cold without taking a sip.</li>
 
-    <h2>Setting tasks</h2>
-    <li>Have just a few things that you want to achieve in a day. You should never think that you can have more priorities than you have arms. Write them down somewhere or prioritize using RTM when you go to bed each night. </li>
-    <li>before you start a task, estimate how long it will take. then ask somebody who's done it before, to avoid the planning fallacy</li>
-    <li>write your tasks in imperative verb form. it seems silly, but it works </li>
-    <li>write tasks you can achieve - if nobody but you knows what "done" is, that's a bad sign</li>
-    <li>Write tasks that you can achieve in one sitting. "Plan career" is not a task but, "write down all the jobs that my mentors have worked," is a task that can be completed in one sitting.</li>
-    <li>use remember the milk. learn the keyboard shortcuts. learn the smart add token things. use smart searches. read the forums for more tips.</li>
+    <h2>Using a task list</h2>
+    <li>Find, then stick to a good <strong>task list application</strong> we both use <a href="http://rememberthemilk.com">Remember The Milk</a> and recommend it highly. Pick an application that's sophisticated enough that you're likely to still be learning new tricks after a year of daily use. For RTM, your mastery of the tool will involve learning the <a href="https://www.rememberthemilk.com/services/smartadd/">Smart Add</a> symbols and <a href="https://www.rememberthemilk.com/help/answers/basics/keyboard.rtm">keyboard shortcuts</a> finding a few <a href="https://www.rememberthemilk.com/help/answers/smartlists/">smart lists</a> that work for you then <a href="https://www.rememberthemilk.com/forums/tips/">trawling the forum for pro tips</a>.</li>
+    <li>Write <strong>achievable tasks</strong>. Heuristic: if a stranger were watching you work, would she be able to pinpoint the minute when you are "done"? This might require picking an arbitrary number of things to list or minutes to spend. If you avoiding picking an arbitrary number and plan to do something to your satisfaction, you will invariably give it insufficient or excessive attention. "Plan career" is not an achievable task. "Write down ten jobs that my mentors have worked" is much better.</li>
+    <li>
+        <p>Don't write down large tasks. Don't even break down a large task into smaller tasks. Instead, think of the <strong>first task that can be performed in a single sitting</strong> that will lead to your goal. This might look like "spend five minutes brainstorming wedding gift ideas for Richie and Lisa". The next task you schedule will likely depend on the outcome of the first. "Buy Richie and Lisa a wedding gift" is achievable (see above) but problematic as you may discover that you need to seek someone else's opinion, go to a particular store or wait for a particular date.</p>
+        <p>If you use the Pomodoro Technique, tasks should be short enough to fit into a single Pomodoro. Otherwise, you will need to learn your tolerance for working on a particular type of task for an extended time period, keeping in mind the cost of diminishing returns. For instance, Oz knows that he can brainstorm for 2-3 minutes with full creativity, research something on the Internet for 10-15 minutes without getting distracted, and write code for 20-30 minutes without accidentally introducing bugs.</p>
+    <li>Use <strong>imperative verbs</strong>. It seems insignificant, but a list of tasks that resemble "send nicky a birthday email" or "find the three highest-rated headphones on amazon" turns out to be easier to scan, understand and attack than "nicky birthday message" or "three headphone options amazon".</li>
+    <li><strong>Priorities are not tasks</strong>. Feel free to set yourself hundreds of small tasks for a day, but you never have more priorities than you have arms. You should be able to immediately recall your day's priorities as you walk in the door to work, and be able to triage potential tasks against your priorities.</li>
 
     <h2>Before you start a task...</h2>
+    <li>before you start a task, estimate how long it will take. then ask somebody who's done it before, to avoid the planning fallacy</li>
     <li>take the most important thing on your todo list and hide everything else. this will reduce the chance of procrastinating on small tasks</li>
     <li>ask somebody else what you should do today. don't give them options, just ask them.</li>
     <li>before you start working on a task, explain to someone else why you intend to work on it. if there's noone nearby, speak to your coffee mug. if you are avoiding verbalizing your rationale, you should probably be working on something else</li>
@@ -98,6 +100,7 @@ So, here are the first hundred that came to mind. All have worked for one or bot
     <li><strong>Clean out your bookmarks</strong> and keep the bookmarks bar hidden (press ⇧⌘B right now). You shouldn't need to keep bookmarks—sites you visit regularly will be easily to recall the URL for (either by you or by autocomplete in the Chrome location bar), articles can be read later (see above) and other pages you come across that merit further investigation should be scheduled as later research tasks.</li>
     <li><strong>Set a useful startup page</strong> for Chrome (⌘, will bring up the Preferences pane). For me, this is <a href="http://rememberthemilk.com">RTM</a>.</li>
     <li>Learn basic Chrome keyboard shortcuts. ⌘L to focus on the location bar, space and shift-space to move down and up a page, ⌘T to open a new tab, ⇧⌘T to open a new tab with the contents of the last closed tab (surprisingly useful!). ⌘F to find, extra find commands etc !!</li>
+    <li>Consider using a mouse replacement.!!</li>
 
     <h2>Conquering procrastination</h2>
     <li><strong>Schedule your chores</strong>, so that you can't use them as a way to procrastinate. If "clean the bathroom" is a monthly scheduled RTM task and you nonetheless find yourself contemplating it during the month, then you're likely avoiding a more important task.</li>
@@ -119,12 +122,13 @@ So, here are the first hundred that came to mind. All have worked for one or bot
     <li>Have less stuff</li>
     <li>scan and shred paperwork. take photos of receipts, etc straight into dropbox</li>
     
-    <h2>Keeping your mind clear</h2>
+    <h2>Keeping inane things off your mind</h2>
     <li>Realize that other people pay less attention to you than you think. While you can't totally neglect your appearance and personal hygiene, you can probably afford to dial it down by !!%.</li>
     <li><strong>Don't stress out about things you can't change</strong>. Earthquakes, stock market movements and the weather have nothing to do with you and cannot be affected by you. Write a list of the things in your life that you do have control over, and direct your stress at them instead.</li>
     <li><strong>Expel everything from now as a task</strong>, so that you don't dwell on something that can only be done later and so that you don't ever have to remember anything. Use an app on your phone, RTM's personal email address (/Settings/Info) and always have RTM open on your machine so that you can just write it down and move on with what you currently have to do.</li>
     <li>Use <a href="http://sabi.net/nriley/software/">Pester</a> so that you don't have to remember any time-sensitive tasks.</li>
-
+    <li>If you have portable access to email, send yourself todos. Otherwise, carry around a small notebook and telescopic pen!! move this to "Get things off your mind?"</li>
+    
     <h2>Wellbeing</h2>
     <li>Quit smoking. Cigarettes give you a physical impulse to drop everything that you're doing - very productive tasks included - to put another nail in your coffin.</li>
     <li>Drink less. You will spend less weekends in bed, have a clearer head and make better decisions about how long you stay out while on nights out. Drinking kills, makes you unproductive and doesn't make you more interesting.</li>
@@ -157,7 +161,7 @@ So, here are the first hundred that came to mind. All have worked for one or bot
     <li>Stick to a personal uniform.</li>
     <li>
         <p><strong>Don't eat during the day</strong>. I only started doing this recently, but have found it quite liberating. Every day, I have fewer thoughts about when and what to eat, whether I should go to the kitchen to snack on something, and so on. I don't suffer from cortisol spikes (food comas), subject my colleagues to low blood sugar moodiness, or experience hunger pangs at noon from <a href="http://www.physorg.com/news170688849.html">circadian ghrelin troughs</a>. Counter-intuitively, I experience far less hunger now than when I ate breakfast and lunch.</p>
-        <p>Fasting for the entire day is not realistic unless you first become accustomed to a low-carb, high-fat diet (or, alternatively, participate in Ramadan fasts for a few years). Start by skipping breakfast a few days a week, skipping lunch a few days a week, then experimenting with some longer <a href="http://en.wikipedia.org/wiki/Intermittent_fasting">intermittent fasting</a>. While it has more of a bodybuilding focus, I've found <a href="http://www.leangains.com/">leangains</a> to be a reliable, scientifically reliable resource.</p>
+        <p>Fasting for the entire day is not realistic unless you first become accustomed to a low-carb, high-fat diet. Start by skipping breakfast a few days a week, skipping lunch a few days a week, then experimenting with some longer <a href="http://en.wikipedia.org/wiki/Intermittent_fasting">intermittent fasting</a>. While it has more of a bodybuilding focus, I've found <a href="http://www.leangains.com/">leangains</a> to be a reliable, scientifically reliable resource.</p>
     </li>
 
     <h2>The primary thing</h2>
