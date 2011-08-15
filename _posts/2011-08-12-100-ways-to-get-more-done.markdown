@@ -1,33 +1,66 @@
 ---
 layout: post
 title: 100 ways to get more done
-published: false
-author_name: Ozan Onay
+published: true
+author_name: Ozan Onay and Ash Fontana
 
 ---
 
-A friend recently asked me what he could do to reduce procrastination and be more effective. I gave him a few tips but mentioned that there are "hundreds of other things" he could do.
+A friend recently asked us what he could do to reduce procrastination and be more effective. We gave him a few tips but mentioned that there are "hundreds of other things" he could do.
 
-So, here are the first hundred that came to mind. All have worked for either myself or people I've worked with, but your mileage may vary.
+So, here are the first hundred that came to mind. All have worked for one or both of us, but your mileage may vary.
 
 <ol>
     
     <h2>Optimizing your work environment</h2>
     <li>Buy the most comfortable pair of <strong>over-ear headphones</strong> you can find. Wear them all the time, even if you have the music off, as a sign that you are not to be disturbed. If somebody speaks to or waves at you, you can get away with outright ignoring them.</li>
-    <li>Don't eat at your desk. Don't read the paper at your desk. Don't watch YouTube or make personal phone calls at your desk. <strong>Treat your desk as a sacred work space</strong> so that next time you sit down, you subconsciously know why you're there and what you need to do.</li>    
+    <li>Don't eat at your desk. Don't read the paper at your desk. Don't watch YouTube or make personal phone calls at your desk. <strong>Treat your desk as a sacred work space</strong> so that next time you sit down, you subconsciously know why you're there and what you need to do.</li>
     <li><strong>Clear everything off your desk</strong> at the start and end of every day. Don't allow yourself the distraction that comes from clutter or personal effects; every little item, even a pen, has the ability to distract. Think of yourself as a chef—before you start the next dish you need to put away the utensils you aren't using and wipe the bench, otherwise you could hurt yourself or contaminate someone's food.</li>
     <li>The same applies to <strong>clearing your desktop</strong>. Create a ritual of closing unused apps and Chrome tabs, saving and filing away notes, and deleting temporary files from your desktop. Do this whenever you complete a task, and before long you will find a great deal of satisfaction in hitting ⌘Q.</li>
+
+    <h2>Setting the mood</h2>
+    <li>deal with stressful distractions. "deal" could be as easy as scheduling a later time to think about it.</li>
+    <li> Close all inlets of communication on your machine,- Growl notifications, sounds from apps, etc.</li>
+    <li> Close all inlets of communication on your phone, or don't use one at all (see !! above).</li>
+    <li> Have a 'starting work' ritual. This is a sequence of things that you do before starting work that you will then always associate with work. (!! works for the buddhists). I make some tea, get a glass of water, open all the apps that I need for the task, close all other apps, queue up an hour-long mix from one of my favorite DJ's on SoundCloud then put on my headphones.</li>
     
-    <h2>Attaining a flow state</h2>
+    <h2>Attaining flow</h2>
     <li>Listen to <strong><a href="http://en.wikipedia.org/wiki/Dubstep">dubstep</a></strong>, a genre of electronic dance music invented to help programmers work faster (also works for the general population). If dubstep isn't doing it for you, try drum and bass, breakbeats or <a href="http://en.wikipedia.org/wiki/Brownian_noise">Brownian noise</a>. Remember, you want to pick the music (or sounds) that will make you work more effectively, not what will impress your peers or help you attract a mate. Just lie about what you listen to at work, if you have to.</li>
     <li>Learn to <strong>recognize when your work is making you anxious</strong> so that you know to <a href="http://regardingwork.com/2011/07/07/five-minutes-to-lifelong-job-satisfaction/">improve your skills to re-enter your flow channel</a>. Everybody will have their own tells—I know this is happening when I sigh before speaking to a colleague (a sign that I've been holding my breath intermittently while working on a tough problem) or if I find myself sitting on the edge of my bed in the morning, for an extended period of time, with only one sock on, thinking about my first task for the day.</li>
     <li>Learn to <strong>recognize when you are bored at work</strong> so that you know to <a href="http://regardingwork.com/2011/07/07/five-minutes-to-lifelong-job-satisfaction/">increase the difficulty of your work to re-enter your flow channel</a>. Your tells should be quite obvious, if you're paying attention. Typically you'll find yourself procrastinating, looking for small, mindless tasks to do, or contemplating dinner. If you're a manager, you might be on the brink of booking a meeting. My own tells include going for two coffees in one day or realizing that a new album has started playing. My counter-tell is making a cup of tea, then accidentally let it go cold without taking a sip.</li>
+
+    <h2>Setting tasks</h2>
+    <li>Have just a few things that you want to achieve in a day. You should never think that you can have more priorities than you have arms. Write them down somewhere or prioritize using RTM when you go to bed each night. </li>
+    <li>before you start a task, estimate how long it will take. then ask somebody who's done it before, to avoid the planning fallacy</li>
+    <li>write your tasks in imperative verb form. it seems silly, but it works </li>
+    <li>write tasks you can achieve - if nobody but you knows what "done" is, that's a bad sign</li>
+    <li>Write tasks that you can achieve in one sitting. "Plan career" is not a task but, "write down all the jobs that my mentors have worked," is a task that can be completed in one sitting.</li>
+    <li>use remember the milk. learn the keyboard shortcuts. learn the smart add token things. use smart searches. read the forums for more tips.</li>
+
+    <h2>Before you start a task...</h2>
+    <li>take the most important thing on your todo list and hide everything else. this will reduce the chance of procrastinating on small tasks</li>
+    <li>ask somebody else what you should do today. don't give them options, just ask them.</li>
+    <li>before you start working on a task, explain to someone else why you intend to work on it. if there's noone nearby, speak to your coffee mug. if you are avoiding verbalizing your rationale, you should probably be working on something else</li>
+    <li>consider, how much would i pay for somebody else to do this for me? if not very much, you should get someone else to do it! or take it as a sign that this isn't important</li>
+    <li>if you are about to start a task for the purpose of X and Y, brainstorm alternative ways to achieve both. is it possible to get X and Y more easily if you seek them out separately?</li>
+    <li>what would your far-future self say if he saw you doing this? would he think you were wasting your time?</li>
+    <li>if your were giving advice to a friend, would you recommend they work on what you're working on now?</li>
+
+    <h2>Recurring tasks</h2>
+    <li>is this something you've done a number of times before? what lessons did you learn last time</li>
+    <li>is this something you've done a number of times before? why isn't it easier this time? how can i automate this? You are what you don't automate.</li>
+    <li>why did you form this habit in the first place? has the context changed? if you knew then what you know now, would you have started?</li>
     
-    <h2>Keeping your mind clear</h2>
-    <li>Realize that other people pay less attention to you than you think. While you can't totally neglect your appearance and personal hygiene, you can probably afford to dial it down by !!%.</li>
-    <li><strong>Don't stress out about things you can't change</strong>. Earthquakes, stock market movements and the weather have nothing to do with you and cannot be affected by you. Write a list of the things in your life that you do have control over, and direct your stress at them instead.</li>
-    <li><strong>Expel everything from now as a task</strong>, so that you don't dwell on something that can only be done later and so that you don't ever have to remember anything. Use an app on your phone, RTM's personal email address (/Settings/Info) and always have RTM open on your machine so that you can just write it down and move on with what you currently have to do.</li>
-    <li>Use <a href="http://sabi.net/nriley/software/">Pester</a> so that you don't have to remember any time-sensitive tasks.</li>
+    <h2>Working on the most important thing</h2>
+    <li>Get a friend to audit your task list or calendar at regular intervals.</li>
+    <li>write an email to a respected acquaintance listing everything you did today. you'll probably be too embarrassed to hit send, so consider what you'll change tomorrow to make it an email you can be proud of</li>
+    <li>know your hourly rate</li>
+
+    <h2>Doing things for the wrong reason</h2>
+    <li>don't do things to signal something dumb, like status on intelligence or work ethic</li>
+    <li>don't do something just because "it's your job". you have more control over your job than you think</li>
+    <li>never, ever do busy work. sets a bad habit</li>
+    <li>understand sunk cost bias so you can identify when you're falling for it</li>
 
     <h2>Conquering email</h2>
     <li>Use <strong>a single Gmail account</strong>. If you have a separate work email address, have it forwarded to your Gmail account. Having a single place for your email will help you with Inbox Zero and similar techniques. Choosing Gmail as your email client will help you become a power user.</li>
@@ -51,11 +84,11 @@ So, here are the first hundred that came to mind. All have worked for either mys
     <li>Have all content you need accessible all the time, on any machine. Storing all of your docs, work, etc. in the cloud with <a href="https://www.dropbox.com/">Dropbox</a> or <a href="https://www.docs.google.com/">Google Docs</a> will enable you to work on anything whenever and wherever you feel the urge.</li>
    	<li>Use (even if loosely) an informative, extensible file naming system that you have internalized rather than spending time creating a folder system. Then, use Spotlight (⌘ + space) to find files fast, rather than navigating through folder systems.</li>
     <li>Habitualize simple keyboard navigation. ctrl-a ctrl-e for start and end of line. option left/right for moving one word at a time.</li>
-    <li>Use <a href= "http://mizage.com/divvy/>" Divvy </a> to control the windows in your workspace.</li>
+    <li>Use <a href="http://mizage.com/divvy/">Divvy</a> to control the windows in your workspace.</li>
 	<li>Regularly use full screen apps to increase focus and as part of your productivity commencement ritual (!! link to number). There's usually an option in the 'View' menu of most apps in Mac OS X and it's <a href='http://www.apple.com/macosx/whats-new/full-screen.html'>built into Lion</a>.</li>
     <li>Use a password manager like<a href= "http://agilebits.com/products/1Password/"> 1Password</a>. You should not waste time recalling and mental space keeping a log of all of your passwords. Besides, the password manager will be better at generating long, complex passwords than you.</li>
     <li>Once you decide that you no longer need an app, zap it with with  <a href= "http://appzapper.com/"> AppZapper</a>. Your Applications folder is a distraction in itself.</li>
-    <li>Consider <a href= "http://al3x.net/2008/09/08/al3xs-rules-for-computing-happiness.html>"> al3x's Rules for Computing Happiness </a>, particularly those under 'Hardware' to ensure that you are using a machine that suits your needs and don't own hardware you don't need.</li>
+    <li>Consider <a href="http://al3x.net/2008/09/08/al3xs-rules-for-computing-happiness.html"> al3x's Rules for Computing Happiness </a>, particularly those under 'Hardware' to ensure that you are using a machine that suits your needs and don't own hardware you don't need.</li>
     
     <h2>Fast, focused web use</h2>
     <li>Use <strong>Google Chrome</strong>. It's the fastest browser and will allow you to use some handy extensions.</li>
@@ -65,6 +98,13 @@ So, here are the first hundred that came to mind. All have worked for either mys
     <li><strong>Clean out your bookmarks</strong> and keep the bookmarks bar hidden (press ⇧⌘B right now). You shouldn't need to keep bookmarks—sites you visit regularly will be easily to recall the URL for (either by you or by autocomplete in the Chrome location bar), articles can be read later (see above) and other pages you come across that merit further investigation should be scheduled as later research tasks.</li>
     <li><strong>Set a useful startup page</strong> for Chrome (⌘, will bring up the Preferences pane). For me, this is <a href="http://rememberthemilk.com">RTM</a>.</li>
     <li>Learn basic Chrome keyboard shortcuts. ⌘L to focus on the location bar, space and shift-space to move down and up a page, ⌘T to open a new tab, ⇧⌘T to open a new tab with the contents of the last closed tab (surprisingly useful!). ⌘F to find, extra find commands etc !!</li>
+
+    <h2>Conquering procrastination</h2>
+    <li><strong>Schedule your chores</strong>, so that you can't use them as a way to procrastinate. If "clean the bathroom" is a monthly scheduled RTM task and you nonetheless find yourself contemplating it during the month, then you're likely avoiding a more important task.</li>
+    <li>Try the <strong><a href="http://www.pomodorotechnique.com/">Pomodoro Technique</a></strong>. This one's not for me, but many people swear by it.</li>
+	<li>Try ticking off small milestones within the time you have dedicated to a task, where the task is suited to this. For example, if you have to write 1,000 words in two hours then write 100 ten times on a piece of paper and tick the markers off as you reach thm, just like you would watch the mileage tick over on a treadmill.</li>
+    <li>Use <strong><a href="https://www.rescuetime.com/">RescueTime</a></strong> to automatically log your productive and unproductive activities. The point is not to treat productivity as a game or to obsesses over your daily stats. Instead, just schedule a regular time (say once a month) to audit your RescueTime stats looking for patterns of low productivity and problem apps and Web sites.</li>
+    <li><strong>Block problem Web sites</strong>. I've been using the <a href="https://chrome.google.com/webstore/detail/laankejkbhbdhmipfmgcngdelahlfoji">StayFocusd extension</a> to block out the entire work week, but you could similarly use RescueTime's "Get Focused..." feature.</li>
 
     <h2>Having a focused life</h2>
     <li>consciously-formed habits are generally beneficial, accidental habits are generally detrimental</li>
@@ -76,22 +116,14 @@ So, here are the first hundred that came to mind. All have worked for either mys
     <li>have a small identity. this way you avoid the high cost of maintaining it. neglect to have an opinion on politics. neglect to have an opinion on important social matters. !! pg article</li>
     <li>don't learn what you can just look up</li>
     <li>improve your thinking</li>
-    <li>Realize that others are paying less attention to you than you think !! upside of irrationality research</li>
     <li>Have less stuff</li>
     <li>scan and shred paperwork. take photos of receipts, etc straight into dropbox</li>
-
-    <h2>Setting the mood</h2>
-    <li>deal with stressful distractions. "deal" could be as easy as scheduling a later time to think about it.</li>
-    <li> Close all inlets of communication on your machine,- Growl notifications, sounds from apps, etc.</li>
-    <li> Close all inlets of communication on your phone, or don't use one at all (see !! above).</li>
-    <li> Have a 'starting work' ritual. This is a sequence of things that you do before starting work that you will then always associate with work. (!! works for the buddhists). I make some tea, get a glass of water, open all the apps that I need for the task, close all other apps, queue up an hour-long mix from one of my favorite DJ's on SoundCloud then put on my headphones.</li>
-
-    <h2>Conquering procrastination</h2>
-    <li><strong>Schedule your chores</strong>, so that you can't use them as a way to procrastinate. If "clean the bathroom" is a monthly scheduled RTM task and you nonetheless find yourself contemplating it during the month, then you're likely avoiding a more important task.</li>
-    <li>Try the <strong><a href="http://www.pomodorotechnique.com/">Pomodoro Technique</a></strong>. This one's not for me, but many people swear by it.</li>
-	<li>Try ticking off small milestones within the time you have dedicated to a task, where the task is suited to this. For example, if you have to write 1,000 words in two hours then write 100 ten times on a piece of paper and tick the markers off as you reach thm, just like you would watch the mileage tick over on a treadmill.</li>
-    <li>Use <strong><a href="https://www.rescuetime.com/">RescueTime</a></strong> to automatically log your productive and unproductive activities. The point is not to treat productivity as a game or to obsesses over your daily stats. Instead, just schedule a regular time (say once a month) to audit your RescueTime stats looking for patterns of low productivity and problem apps and Web sites.</li>
-    <li><strong>Block problem Web sites</strong>. I've been using the <a href="https://chrome.google.com/webstore/detail/laankejkbhbdhmipfmgcngdelahlfoji">StayFocusd extension</a> to block out the entire work week, but you could similarly use RescueTime's "Get Focused..." feature.</li>
+    
+    <h2>Keeping your mind clear</h2>
+    <li>Realize that other people pay less attention to you than you think. While you can't totally neglect your appearance and personal hygiene, you can probably afford to dial it down by !!%.</li>
+    <li><strong>Don't stress out about things you can't change</strong>. Earthquakes, stock market movements and the weather have nothing to do with you and cannot be affected by you. Write a list of the things in your life that you do have control over, and direct your stress at them instead.</li>
+    <li><strong>Expel everything from now as a task</strong>, so that you don't dwell on something that can only be done later and so that you don't ever have to remember anything. Use an app on your phone, RTM's personal email address (/Settings/Info) and always have RTM open on your machine so that you can just write it down and move on with what you currently have to do.</li>
+    <li>Use <a href="http://sabi.net/nriley/software/">Pester</a> so that you don't have to remember any time-sensitive tasks.</li>
 
     <h2>Wellbeing</h2>
     <li>Quit smoking. Cigarettes give you a physical impulse to drop everything that you're doing - very productive tasks included - to put another nail in your coffin.</li>
@@ -106,28 +138,6 @@ So, here are the first hundred that came to mind. All have worked for either mys
     <li>Recover when you need to. Working when you're sick can be demoralizing and significantly interfere with proper recovery.</li>
     <li>Manage pain and injuries. Anything from a cuts to back pain can be significant, unpredictable interruptions and put you off for months at a time.</li>
 
-    <h2>Setting tasks</h2>
-    <li>Have just a few things that you want to achieve in a day. You should never think that you can have more priorities than you have arms. Write them down somewhere or prioritize using RTM when you go to bed each night. </li>
-    <li>before you start a task, estimate how long it will take. then ask somebody who's done it before, to avoid the planning fallacy</li>
-    <li>write your tasks in imperative verb form. it seems silly, but it works </li>
-    <li>write tasks you can achieve - if nobody but you knows what "done" is, that's a bad sign</li>
-    <li>Write tasks that you can achieve in one sitting. "Plan career" is not a task but, "write down all the jobs that my mentors have worked," is a task that can be completed in one sitting.</li>
-    <li>use remember the milk. learn the keyboard shortcuts. learn the smart add token things. use smart searches. read the forums for more tips.</li>
-
-    <h2>Before you start a task...</h2>
-    <li>take the most important thing on your todo list and hide everything else. this will reduce the chance of procrastinating on small tasks</li>
-    <li>ask somebody else what you should do today. don't give them options, just ask them.</li>
-    <li>before you start working on a task, explain to someone else why you intend to work on it. if there's noone nearby, speak to your coffee mug. if you are avoiding verbalizing your rationale, you should probably be working on something else</li>
-    <li>consider, how much would i pay for somebody else to do this for me? if not very much, you should get someone else to do it! or take it as a sign that this isn't important</li>
-    <li>if you are about to start a task for the purpose of X and Y, brainstorm alternative ways to achieve both. is it possible to get X and Y more easily if you seek them out separately?</li>
-    <li>what would your far-future self say if he saw you doing this? would he think you were wasting your time?</li>
-    <li>if your were giving advice to a friend, would you recommend they work on what you're working on now?</li>
-
-    <h2>Recurring tasks</h2>
-    <li>is this something you've done a number of times before? what lessons did you learn last time</li>
-    <li>is this something you've done a number of times before? why isn't it easier this time? how can i automate this? You are what you don't automate.</li>
-    <li>why did you form this habit in the first place? has the context changed? if you knew then what you know now, would you have started?</li>
-
     <h2>Plateau busting</h2>
     <li>collaborate with somebody smarter than you</li>
     <li>collaborate with somebody more creative than you</li>
@@ -137,17 +147,6 @@ So, here are the first hundred that came to mind. All have worked for either mys
 	<li>Engage in <a href='http://structuredprocrastination.com/'> Structured Procrastination</a>. This is helpful in compressing your available time for high-priority tasks to increase urgency, consolidating low-priority tasks into allocated time, working on self-deception and determining the true importance of all tasks.</li>
     <li>have a cup of tea, away from your desk, in silence. don't flick through a magazine, just sit and drink the tea</li>
     <li>have a sacred thinking spot, like a cafe you only go to by yourself, or a tree that nobody else would think to sit under</li>
-    
-    <h2>Working on the most important thing</h2>
-    <li>Get a friend to audit your task list or calendar at regular intervals.</li>
-    <li>write an email to a respected acquaintance listing everything you did today. you'll probably be too embarrassed to hit send, so consider what you'll change tomorrow to make it an email you can be proud of</li>
-    <li>know your hourly rate</li>
-
-    <h2>Doing things for the wrong reason</h2>
-    <li>don't do things to signal something dumb, like status on intelligence or work ethic</li>
-    <li>don't do something just because "it's your job". you have more control over your job than you think</li>
-    <li>never, ever do busy work. sets a bad habit</li>
-    <li>understand sunk cost bias so you can identify when you're falling for it</li>
 
     <h2>Further study</h2>
     <li><strong><a href="!!">Learn about flow theory</a></strong> so that whenever you have a chance you can opt for fulfilling rather than temporarily pleasurable activities. Some of Csikszentmihalyi's conclusions are non-trivial, for instance shooting the breeze with old friends is deceptively fun but rarely fulfilling, whereas talking to a stranger can sometimes induce a flow state.</li>
