@@ -20,7 +20,7 @@ Perpetual and constant propulsion with finite fuel is impossible, unless one reu
 
 Beware those sharks who repetitively apply formulas to maintain constant output. They are not likely dealing with the complexity or distinction of your business problem. Stephen Wolfram has said that not one MBA has ever succeeded at his organization because it is not a formula-run place.
 
-<blockquote>When reviewing a list of best practices, keep in mind that someone somewhere is selling them in a book.
+<blockquote>"When reviewing a list of best practices, keep in mind that someone somewhere is selling them in a book."
 
 Lee Clow, Chairman and Global Director of TBWA\Worldwide (<a href="https://twitter.com/#!/leeclowsbeard/status/43339005441490944" target="_blank">tweet</a>).</blockquote>
 
