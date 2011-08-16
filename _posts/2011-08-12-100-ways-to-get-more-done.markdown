@@ -149,6 +149,7 @@ So, here are the first hundred that came to mind. All have worked for one or bot
     <li>Divide and conquer. For example, split tasks in your list into smaller, 10minute tasks.</li>
     <li>write lists. pick a large number !! altucher reference?</li>
 	<li>Engage in <a href='http://structuredprocrastination.com/'> Structured Procrastination</a>. This is helpful in compressing your available time for high-priority tasks to increase urgency, consolidating low-priority tasks into allocated time, working on self-deception and determining the true importance of all tasks.</li>
+    <li>Go back over old lists or journal entries that you habitually make. For example, I have a RTM list for what may just be silly business or blog post ideas. These sometimes get me onto something significant and otherwise it's good to get them permanently out of your mind.</li>
     <li>have a cup of tea, away from your desk, in silence. don't flick through a magazine, just sit and drink the tea</li>
     <li>have a sacred thinking spot, like a cafe you only go to by yourself, or a tree that nobody else would think to sit under</li>
 
