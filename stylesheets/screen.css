@@ -210,20 +210,34 @@ html #footer .wrap {
   padding: 20px 0 40px;
 }
 
-/* line 135, ../_sass/screen.scss */
+/* line 131, ../_sass/screen.scss */
+.subscribe {
+  background: url("http://www.feedicons.com/images/feed-icon-14x14.png") no-repeat center left;
+  color: #ee7e22;
+  display: inline-block;
+  float: left;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 20px;
+  padding-left: 18px;
+  margin-right: 40px;
+}
+
+/* line 149, ../_sass/screen.scss */
 #disqus_thread {
   margin-top: 4em;
 }
-/* line 138, ../_sass/screen.scss */
+/* line 152, ../_sass/screen.scss */
 #disqus_thread p, #disqus_thread ul {
   font-size: 14px;
   text-shadow: none;
 }
-/* line 141, ../_sass/screen.scss */
+/* line 155, ../_sass/screen.scss */
 #disqus_thread p .dsq-comment-message, #disqus_thread ul .dsq-comment-message {
   line-height: 1.4em;
 }
-/* line 147, ../_sass/screen.scss */
+/* line 161, ../_sass/screen.scss */
 #disqus_thread #dsq-global-toolbar, #disqus_thread #dsq-subscribe, #disqus_thread #dsq-like-tooltip, #disqus_thread #dsq-sort-by,
 #disqus_thread #dsq-content > h3, #disqus_thread .dsq-reply > h3 {
   display: none;

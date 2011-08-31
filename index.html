@@ -16,9 +16,17 @@ layout: default
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  
+  <div id="follow">
+    <a href="http://feeds.feedburner.com/RegardingWork" class="subscribe">subscribe</a>
+    <a href="http://twitter.com/regardingwork" class="twitter-follow-button" data-show-count="false">Follow @regardingwork</a>
+    <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+  </div>
+  
 </div>
 
 <style type="text/css" media="screen">
 #byline { font-size: 1.2em; line-height: 1.3em; margin-bottom: 2em; }  
 #posts li { margin-bottom: 0.5em; }
+#follow { margin: 2em 0; }
 </style>
