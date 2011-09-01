@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 100 ways to get more done
-published: false
+published: true
 author_name: Ozan Onay and Ash Fontana
 
 ---
